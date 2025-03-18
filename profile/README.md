@@ -13,4 +13,5 @@ Astar – Представьте, что у вас есть доступ к не
 
 - Безопасность. Astar Grid обеспечивает безопасную и надежную среду для ваших вычислительных задач
 
-[Релизы](https://detulie.space/AStarGrid/reliases/)
+## Релизы:
+[Desktop](https://detulie.space/AStarGrid/reliases/)
